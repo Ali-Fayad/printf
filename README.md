@@ -25,7 +25,7 @@ A custom implementation of the `printf` function in C, developed as part of the 
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/ft_printf.git
+    git clone https://github.com/Ali-Fayad/ft_printf.git
     cd ft_printf
     ```
 
@@ -72,7 +72,7 @@ A custom implementation of the `printf` function in C, developed as part of the 
 - **POSIX system calls**: `fork()`, `execve()`, `pipe()`, `dup2()`, `waitpid()`, etc.
 
 ## Authors ✨
-- **[Your Name]** (GitHub: [Your GitHub Link])
+- **[Ali-Fayad]** (GitHub: [https://github.com/Ali-Fayad/])
 
 ## License 📜
 This project is for educational purposes and follows 42 School's guidelines. All rights reserved.
